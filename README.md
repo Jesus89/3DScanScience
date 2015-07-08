@@ -4,6 +4,8 @@ All scientific background, image processing, calibration and scanning algorithms
 
 This work is related to [Ciclop](https://github.com/bq/ciclop), [Horus](https://github.com/bq/horus) and [Horus-fw](https://github.com/bq/horus-fw) projects.
 
+You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/tree/master/notebooks/).
+
 ## Index
 
  1. [Introduction](notebooks/1.\ Introduction.ipynb)
