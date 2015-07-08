@@ -6,7 +6,7 @@ This work is related to [Ciclop](https://github.com/bq/ciclop), [Horus](https://
 
 ## Index
 
- 1. Introduction
+ 1. [Introduction](notebooks/1.\ Introduction.ipynb)
 
  2. Image acquisition
 
