@@ -8,7 +8,7 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
 ## Index
 
- 1. [Introduction](notebooks/1.\ Introduction.ipynb)
+ 1. [Introduction](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/1.%20Introduction.ipynb)
 
  2. Image acquisition
 
@@ -30,4 +30,4 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
   4. Turntable extrinsics calibration
 
- 6. [Point Cloud Generation](notebooks/6. Point Cloud Generation.ipynb)
+ 6. [Point Cloud Generation](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/6.%20Point%20Cloud%20Generation.ipynb)
