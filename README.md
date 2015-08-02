@@ -30,4 +30,4 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
   4. Turntable extrinsics calibration
 
- 6. Point Cloud Generation
+ 6. [Point Cloud Generation](notebooks/6. Point Cloud Generation.ipynb)
