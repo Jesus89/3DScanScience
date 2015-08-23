@@ -10,24 +10,20 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
  1. [Introduction](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/1.%20Introduction.ipynb)
 
- 2. Image acquisition
+ 2. Image capture
 
- 3. Scanning algorithms
+ 3. Laser segmentation
 
-  1. Simple scan
+ 4. Calibration algorithms
 
-  2. Texture scan
+  1. Camera calibration
 
- 4. Laser segmentation
+  2. Scanner autocheck
 
- 5. Calibration methods
+  3. Lasers calibration
 
-  1. Light calibration
+  4. Turntable calibration
 
-  2. Camera intrinsics calibration
+ 5. Scanning process
 
-  3. Laser plane calibration
-
-  4. Turntable extrinsics calibration
-
- 6. [Point Cloud Generation](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/6.%20Point%20Cloud%20Generation.ipynb)
+ 6. [Point cloud generation](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/6.%20Point%20Cloud%20Generation.ipynb)
