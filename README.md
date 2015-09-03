@@ -24,9 +24,9 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
   2. [Camera calibration](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/4.2.%20Camera%20calibration.ipynb)
 
-  3. Scanner autocheck
+  3. [Scanner autocheck](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/4.3.%20Scanner%20autocheck.ipynb)
 
-  4. Lasers calibration
+  4. [Lasers calibration](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/4.4.%20Laser%20calibration.ipynb)
 
   5. Turntable calibration
 
