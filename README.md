@@ -30,6 +30,6 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
   5. [Turntable calibration](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/4.5.%20Turntable%20calibration.ipynb)
 
- 5. [Scanning process]((http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/5.%20Scanning%20process.ipynb)
+ 5. [Scanning process](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/5.%20Scanning%20process.ipynb)
 
  6. [Point cloud generation](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/6.%20Point%20cloud%20generation.ipynb)
