@@ -1,9 +1,5 @@
 # 3D Scan Science
 
-```
-WORK IN PROGRESS!
-```
-
 ![][3d-scan-science]
 
 All scientific background, image processing, calibration and scanning algorithms for 3D laser scanner in IPython notebooks.
