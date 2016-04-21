@@ -14,7 +14,11 @@ You can view this documentation in [nbviewer](http://nbviewer.ipython.org/github
 
  2. [Image capture](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/2.%20Image%20capture.ipynb)
 
- 3. [Laser segmentation](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/3.%20Laser%20segmentation.ipynb)
+ 3. Laser segmentation
+
+  1. [Object](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/3.1.%20Laser%20segmentation.ipynb)
+
+  2. [Pattern](http://nbviewer.ipython.org/github/Jesus89/3DScanScience/blob/master/notebooks/3.2.%20Laser%20segmentation%20in%20pattern.ipynb)
 
  4. Calibration algorithms
 
